@@ -18,7 +18,8 @@ JavaScript  JAVASCRIPT语言精髓与编程实践
 # NodeJs 
 《深入理解Node.js：核心思想与源码分析》  ：    https://yjhjstz.gitbooks.io/deep-into-node/  
 Node Framework: 各种(全/非全)栈式框架:  http://nodeframework.com/
-
+## 前端构建工具
+之争——Webpack vs Gulp 谁更优？https://www.cnblogs.com/iovec/p/7921177.html  
 
 # React
 阮一峰的js课上的react中的flux 与 面向事件编程mobx的讲解  
