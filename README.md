@@ -1,5 +1,5 @@
 
-# 名人
+# 名人名书
 
 ## 阮一峰
 ### 官方博客 www.ruanyifeng.com
@@ -10,10 +10,8 @@
 jstraining https://github.com/ruanyf/jstraining  
 React-sample https://github.com/ruanyf/react-demos  
 
-## 周爱民
-
-JavaScript  JAVASCRIPT语言精髓与编程实践
-
+## TypeScript书籍
+TypeScript Learning TypeScript中文版  链接：https://pan.baidu.com/s/1Xj7_PB2jyyu7lTqWSPb65A 密码：y87i
 
 # NodeJs 
 《深入理解Node.js：核心思想与源码分析》  ：    https://yjhjstz.gitbooks.io/deep-into-node/  
